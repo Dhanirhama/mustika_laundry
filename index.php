@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SISTEM INFORMASI FAMILY LAUNDRY</title>
+    <title>SISTEM INFORMASI MUSTIKA LAUNDRY</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
     <script type="text/javascript" src="assets/js/jquery.js"></script>
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
