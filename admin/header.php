@@ -27,7 +27,7 @@ if($_SESSION['status']!="login"){
 </div>
 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 <ul class="nav navbar-nav">
-<li class="active"><a href="index.php"><i class="glyphicon glyphicon-home"></i> Dashboard</a></li>
+<li class="active"><a href="index.php"><i class="glyphicon glyphicon-home"></i> Halaman Utama</a></li>
 <li><a href="pelanggan.php"><i class="glyphicon glyphicon-user"></i> Pelanggan</a></li>
 <li><a href="transaksi.php"><i class="glyphicon glyphicon-random"></i> Transaksi</a></li>
 <li><a href="laporan.php"><i class="glyphicon glyphicon-list-alt"></i> Laporan</a></li>
@@ -38,10 +38,10 @@ if($_SESSION['status']!="login"){
 <li><a href="ganti_password.php"><i class="glyphicon glyphicon-lock"></i> Ganti Password</a></li>
 </ul>
 </li>
-<li><a href="logout.php"><i class="glyphicon glyphicon-log-out"></i> Log Out</a></li>
+<li><a href="logout.php"><i class="glyphicon glyphicon-log-out"></i> Keluar</a></li>
 </ul>
 <ul class="nav navbar-nav navbar-right">
-<li><p class="navbar-text">Halo, <b> <?php echo $_SESSION['username']; ?></b> !</p></li>
+<li><p class="navbar-text">Selamat Datang, <b> <?php echo $_SESSION['username']; ?></li>
 </ul>
 </div>
 </div>

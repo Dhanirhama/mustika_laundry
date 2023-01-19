@@ -10,7 +10,7 @@
     <br/>
     <br/>
     <center>
-        <h2>SISTEM INFORMASI FAMILY LAUNDRY</h2>
+        <h2>SISTEM INFORMASI MUSTIKA LAUNDRY</h2>
     </center>
     <br/>
     <br/>

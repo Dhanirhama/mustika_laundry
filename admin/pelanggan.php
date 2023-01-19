@@ -2,7 +2,7 @@
 <div class="container">
     <div class="panel">
         <div class="panel-heading">
-            <h4>Data Pelanggan Mustika-Laundry</h4>
+            <h4><b> Pelanggan Mustika-Laundry</b></h4>
         </div>
         <div class="panel-body">
             <a href="pelanggan_tambah.php" class="btn btn-sm btn-info pull-right">Tambah</a>
